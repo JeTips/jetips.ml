@@ -1,6 +1,4 @@
 ---
 
----
-
 ![jetips.jpg](jetips.jpg)
 
